@@ -13,7 +13,7 @@
         <PackageReference Include="GraphQL.Client" Version="6.0.2" />
         <PackageReference Include="GraphQL.Client.Serializer.SystemTextJson" Version="6.0.2" />
         <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
-        <PackageReference Include="Microsoft.SemanticKernel" Version="1.4.0" />
+        <PackageReference Include="Microsoft.SemanticKernel" Version="1.70.0" />
     </ItemGroup>
 
     <ItemGroup>
